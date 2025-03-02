@@ -1,5 +1,5 @@
 ## Ticket Management System
-**Overview
+** Overview
 This project is a Laravel-based ticket management system that allows users to create, track, and
  reply to support tickets. It includes authentication, a dashboard, and an email notification system.
 
@@ -25,7 +25,7 @@ This project is a Laravel-based ticket management system that allows users to cr
 
 ## Installation & Setup
 
-**Prerequisites
+** Prerequisites
 
 Ensure you have the following installed on your machine:
 
@@ -39,7 +39,7 @@ Ensure you have the following installed on your machine:
 
 - Clone the repository
     https://github.com/kasunkalya/ticketing.git
-    cd ticketing
+  cd ticketing
 - Install dependencies
     composer install
     npm install && npm run build
